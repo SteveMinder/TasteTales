@@ -40,13 +40,20 @@ Eine Website mit einer Sammlung unserer Lieblingsrezepte, übersichtlich aufgete
 **Projektstruktur:**
 
 ```plaintext
-taste-tales/
+TasteTales/
 ├── src/
-│   ├── recipes/      # Markdown-Dateien der Rezepte
-│   ├── images/       # Bilder der Rezepte
-│   ├── css/          # Stylesheets
-│   │   └── style.css
-├── index.html        # Hauptseite
-├── .eleventy.js      # Konfiguration für Eleventy
-├── package.json      # Projekt- und Abhängigkeitsverwaltung (Node.js)
-├── README.md         # Projektdokumentation
+│   ├── css/
+│   │   └── style.css         # Haupt-Stylesheet
+│   ├── images/                # Bilder für die Rezepte
+│   ├── includes/              # Wiederverwendbare Teile (z.B. Header, Footer für später mit Eleventy)
+│   ├── pages/                 # Alle HTML-Seiten (Startseite, Kategorien, Impressum)
+│   │   ├── index.html
+│   │   ├── vorspeisen.html
+│   │   ├── hauptgerichte.html
+│   │   ├── nachtische.html
+│   │   ├── impressum.html
+│   ├── recipes/               # Rezepte später als Markdown (.md)
+├── README.md                   # Projektdokumentation
+├── .eleventy.js                 # Konfiguration für Eleventy (später)
+├── package.json                 # Projektbeschreibung und Abhängigkeiten (Node.js)
+
