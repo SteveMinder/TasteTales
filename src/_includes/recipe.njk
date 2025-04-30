@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} – Taste Tales</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>{{ title }}</h1>
+    <nav>
+      <a href="../pages/index.html">Startseite</a> |
+      <a href="../pages/vorspeisen.html">Vorspeisen</a> |
+      <a href="../pages/hauptgerichte.html">Hauptgerichte</a> |
+      <a href="../pages/nachtische.html">Nachtische</a> |
+      <a href="../pages/gebaeck.html">Gebäck</a> |
+      <a href="../pages/impressum.html">Impressum</a>
+    </nav>
+  </header>
+
+  <main>
+    {{ content | safe }}
+  </main>
+
+  <footer>
+    <p>© 2025 Taste Tales – Steve Minder und Florian Zingg</p>
+  </footer>
+</body>
+</html>
