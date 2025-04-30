@@ -1,0 +1,23 @@
+{
+  "name": "tastetales",
+  "version": "1.0.0",
+  "description": "**Gruppenarbeit NDS Applikationsentwicklung – TEKO Bern**  \r **Teilnehmer:**\r - Steve Minder\r - Florian Zingg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveMinder/TasteTales.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveMinder/TasteTales/issues"
+  },
+  "homepage": "https://github.com/SteveMinder/TasteTales#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
