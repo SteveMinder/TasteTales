@@ -9,7 +9,7 @@ description: Traditioneller Schweizer Sonntagszopf – luftig, buttrig, lecker.
 
 ### 🧈 Zopf
 
-Ein fluffiges, leicht süßliches Hefegebäck – ideal fürs Frühstück oder den Brunch.
+Ein fluffiges, leicht süssliches Hefegebäck – ideal fürs Frühstück oder den Brunch.
 
 ---
 

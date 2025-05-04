@@ -25,13 +25,13 @@ Ein einfaches und leckeres Rezept für frisches Brot aus dem eigenen Ofen. Perfe
 
 ### 👩‍🍳 Zubereitung
 
-1. Mehl, Salz und Hefe in einer großen Schüssel vermengen.
+1. Mehl, Salz und Hefe in einer grossen Schüssel vermengen.
 2. Wasser und Öl hinzufügen und zu einem glatten Teig kneten.
 3. Abgedeckt 1 Stunde an einem warmen Ort gehen lassen.
 4. Teig zu einem Laib formen und auf ein mit Backpapier belegtes Blech legen.
 5. Ofen auf 220°C vorheizen (Ober-/Unterhitze).
 6. Brot ca. 35–40 Minuten goldbraun backen.
-7. Auskühlen lassen und genießen!
+7. Auskühlen lassen und geniessen!
 
 ---
 
