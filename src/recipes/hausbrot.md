@@ -4,15 +4,16 @@ title: Hausbrot
 emoji: 🥖
 category: Gebäck
 permalink: /recipes/hausbrot/
+description: Einfaches und leckeres Brot aus dem eigenen Ofen.
 ---
 
-# 🥖 Hausbrot
+### 🥖 Hausbrot
 
-Ein einfaches und leckeres Rezept für frisches Brot aus dem eigenen Ofen.
+Ein einfaches und leckeres Rezept für frisches Brot aus dem eigenen Ofen. Perfekt für jede Mahlzeit oder zum Brunch.
 
 ---
 
-## 🛒 Zutaten
+### 🛒 Zutaten
 
 - 500g Weizenmehl
 - 1 Päckchen Trockenhefe
@@ -22,7 +23,7 @@ Ein einfaches und leckeres Rezept für frisches Brot aus dem eigenen Ofen.
 
 ---
 
-## 👩‍🍳 Zubereitung
+### 👩‍🍳 Zubereitung
 
 1. Mehl, Salz und Hefe in einer großen Schüssel vermengen.
 2. Wasser und Öl hinzufügen und zu einem glatten Teig kneten.
@@ -34,6 +35,6 @@ Ein einfaches und leckeres Rezept für frisches Brot aus dem eigenen Ofen.
 
 ---
 
-## 💡 Tipp
+### 💡 Tipp
 
-Ein Schälchen Wasser im Ofen sorgt für eine knusprige Kruste.
+Ein Schälchen Wasser im Ofen sorgt für eine besonders knusprige Kruste.

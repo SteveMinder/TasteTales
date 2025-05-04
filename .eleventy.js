@@ -1,6 +1,11 @@
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/css");
 
+    eleventyConfig.addCollection("recipes", function (collectionApi) {
+        return collectionApi.getFilteredByGlob("src/recipes/*.md");
+    });
+
+
     return {
         pathPrefix: "/TasteTales/",
         dir: {
