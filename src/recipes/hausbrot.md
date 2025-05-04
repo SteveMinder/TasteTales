@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe.njk
 title: Hausbrot
 permalink: /recipes/hausbrot/
 ---
