@@ -1,13 +1,12 @@
 module.exports = function(eleventyConfig) {
-    // CSS durchreichen
     eleventyConfig.addPassthroughCopy("src/css");
 
-    // Optional: Markdown unterstützt Nunjucks (damit {{ title }} etc. in .md funktionieren)
     return {
+        pathPrefix: "/TasteTales/",
         dir: {
             input: "src",
-            includes: "_includes",
-            output: "docs"
+            output: "docs",
+            includes: "_includes"
         },
         markdownTemplateEngine: "njk"
     };
