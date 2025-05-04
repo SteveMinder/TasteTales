@@ -49,3 +49,6 @@ Nathis Cupcakes sind handgemachte kleine Kunstwerke, die mit viel Liebe und hoch
 
 <!-- Optional: Ein Tipp zum Gelingen oder Variieren des Rezepts -->
 Kühldauer einhalten damit werden die Cupcakes schokoladiger. Cupcakes mit Buttercreme immer kühl servieren!
+
+
+_Rezept von Nathalie_

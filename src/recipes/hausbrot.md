@@ -38,3 +38,6 @@ Ein einfaches und leckeres Rezept für frisches Brot aus dem eigenen Ofen. Perfe
 ### 💡 Tipp
 
 Ein Schälchen Wasser im Ofen sorgt für eine besonders knusprige Kruste.
+
+
+_Rezept von Chat GPT_

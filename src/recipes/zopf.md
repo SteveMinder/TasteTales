@@ -41,3 +41,6 @@ Ein fluffiges, leicht süssliches Hefegebäck – ideal fürs Frühstück oder d
 ### 💡 Tipp
 
 Mit etwas Honig oder Konfitüre schmeckt Zopf besonders fein!
+
+
+_Rezept von Chat GPT_
