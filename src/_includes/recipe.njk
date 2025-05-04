@@ -27,7 +27,7 @@
     {% if category %}
       {% set categorySlug = category | lower | replace("ä", "ae") | replace("ö", "oe") | replace("ü", "ue") %}
       <p style="text-align: center; margin-top: 2rem;">
-        <a href="{{ '/' + categorySlug + '/' | url }}">← Zurück zur Kategorie {{ category }}</a>
+        <a href="{{ (categorySlug + '/') | url }}">← Zurück zur Kategorie {{ category }}</a>
       </p>
     {% endif %}
   </main>
