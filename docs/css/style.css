@@ -78,3 +78,33 @@ section {
     text-align: center;
     margin-bottom: 1rem;
 }
+
+/* Rezept Style */
+
+.rezept-inhalt {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    line-height: 1.6;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.05);
+}
+
+.rezept-inhalt h1,
+.rezept-inhalt h2,
+.rezept-inhalt h3 {
+    text-align: left;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    color: #222;
+}
+
+.rezept-inhalt ul,
+.rezept-inhalt ol {
+    padding-left: 1.5rem;
+}
+
+.rezept-inhalt p {
+    margin-bottom: 1rem;
+}
