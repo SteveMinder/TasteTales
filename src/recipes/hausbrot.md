@@ -12,7 +12,7 @@ Ein einfaches und leckeres Rezept für frisches Brot aus dem eigenen Ofen.
 
 ---
 
-### 🛒 Zutaten
+## 🛒 Zutaten
 
 - 500g Weizenmehl
 - 1 Päckchen Trockenhefe
@@ -22,7 +22,7 @@ Ein einfaches und leckeres Rezept für frisches Brot aus dem eigenen Ofen.
 
 ---
 
-### 👩‍🍳 Zubereitung
+## 👩‍🍳 Zubereitung
 
 1. Mehl, Salz und Hefe in einer großen Schüssel vermengen.
 2. Wasser und Öl hinzufügen und zu einem glatten Teig kneten.
@@ -34,6 +34,6 @@ Ein einfaches und leckeres Rezept für frisches Brot aus dem eigenen Ofen.
 
 ---
 
-### 💡 Tipp
+## 💡 Tipp
 
 Ein Schälchen Wasser im Ofen sorgt für eine knusprige Kruste.
