@@ -12,12 +12,12 @@
   <header>
     <h1>{{ title }} {{ emoji }}</h1>
     <nav>
-      <a href="../index.html">Startseite</a>
-      <a href="../vorspeisen.html">Vorspeisen</a>
-      <a href="../hauptgerichte.html">Hauptgerichte</a>
-      <a href="../nachtische.html">Nachtische</a>
-      <a href="../gebaeck.html">Gebäck</a>
-      <a href="../impressum.html">Impressum</a>
+      <a href="{{ '/index.html' | url }}">Startseite</a>
+      <a href="{{ '/vorspeisen.html' | url }}">Vorspeisen</a>
+      <a href="{{ '/hauptgerichte.html' | url }}">Hauptgerichte</a>
+      <a href="{{ '/nachtische.html' | url }}">Nachtische</a>
+      <a href="{{ '/gebaeck.html' | url }}">Gebäck</a>
+      <a href="{{ '/impressum.html' | url }}">Impressum</a>
     </nav>
   </header>
 
@@ -25,9 +25,9 @@
     {{ content | safe }}
 
     {% if category %}
-    <p style="text-align: center; margin-top: 2rem;">
-      <a href="../{{ category | lower }}.html">← Zurück zur Kategorie {{ category }}</a>
-    </p>
+      <p style="text-align: center; margin-top: 2rem;">
+        <a href="{{ '/' + category | lower + '.html' | url }}">← Zurück zur Kategorie {{ category }}</a>
+      </p>
     {% endif %}
   </main>
 
