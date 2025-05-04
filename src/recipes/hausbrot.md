@@ -1,31 +1,37 @@
 ---
-layout: recipe.njk
+layout: default
 title: Hausbrot
-category: gebaeck
-description: Ein knuspriges, selbstgebackenes Brot – außen knusprig, innen weich.
-permalink: /recipes/hausbrot/index.html
+permalink: /recipes/hausbrot/
 ---
 
-## 🥖 Hausbrot
+# 🥖 Hausbrot
 
-### 📝 Zutaten
+Ein einfaches und leckeres Rezept für frisches Brot aus dem eigenen Ofen.
 
-- 250 g Weissmehl
-- 250 g Vollkornmehl
+---
+
+## 🛒 Zutaten
+
+- 500g Weizenmehl
 - 1 Päckchen Trockenhefe
 - 1 TL Salz
-- 350 ml lauwarmes Wasser
+- 300ml lauwarmes Wasser
 - 1 EL Olivenöl
 
-### 🔧 Zubereitung
+---
 
-1. Mehl, Salz und Hefe in einer Schüssel mischen.
-2. Wasser und Öl zugeben und zu einem glatten Teig kneten.
-3. Zugedeckt 1 Stunde an einem warmen Ort gehen lassen.
-4. Teig zu einem Laib formen und auf ein Blech legen.
-5. Bei 220 °C ca. 35 Minuten goldbraun backen.
+## 👩‍🍳 Zubereitung
 
-### 💡 Tipp
+1. Mehl, Salz und Hefe in einer großen Schüssel vermengen.
+2. Wasser und Öl hinzufügen und zu einem glatten Teig kneten.
+3. Abgedeckt 1 Stunde an einem warmen Ort gehen lassen.
+4. Teig zu einem Laib formen und auf ein mit Backpapier belegtes Blech legen.
+5. Ofen auf 220°C vorheizen (Ober-/Unterhitze).
+6. Brot ca. 35–40 Minuten goldbraun backen.
+7. Auskühlen lassen und genießen!
 
-Am besten noch warm servieren – mit Butter oder Kräuterdip.
+---
 
+## 💡 Tipp
+
+Ein Schälchen Wasser im Ofen sorgt für eine knusprige Kruste.
