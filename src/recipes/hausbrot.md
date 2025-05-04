@@ -1,6 +1,8 @@
 ---
 layout: recipe.njk
 title: Hausbrot
+emoji: 🥖
+category: Gebäck
 permalink: /recipes/hausbrot/
 ---
 
