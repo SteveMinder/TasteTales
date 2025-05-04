@@ -72,3 +72,9 @@ section {
     font-size: 0.95rem;
     color: #666;
 }
+
+.kategorien h2 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1rem;
+}
