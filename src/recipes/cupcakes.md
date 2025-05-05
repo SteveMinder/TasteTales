@@ -2,7 +2,7 @@
 layout: recipe.njk
 title: Nathi's Cupcakes
 emoji: 🧁
-category: Gebäck
+category: Desserts
 permalink: /recipes/cupcakes/
 description: Nathi's Cupcakes mit Buttercreme
 ---
