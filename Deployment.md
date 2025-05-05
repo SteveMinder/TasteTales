@@ -35,7 +35,9 @@ Die Analyse dient der Auswahl eines geeigneten Dienstes für kleine bis mittelgr
 - GitHub als Versionskontrolle ohnehin genutzt wird,
 - und es sich ideal für reine HTML-, CSS- und JS-Seiten eignet.
 
-Für erweiterte Features wie Serverless-Funktionen oder dynamische Formulare wären **Netlify** oder **Cloudflare Pages** Alternativen.
+Wir haben uns daher entschieden, **GitHub Pages** als Hosting-Lösung für unser Projekt *Taste Tales* zu verwenden.
+
+Die Website *Taste Tales* ist ein rein statisches Projekt mit HTML-, CSS- und Markdown-Dateien. Es werden keine serverseitigen Funktionen, Benutzerauthentifizierung oder Datenbanken benötigt. Da das Projekt ohnehin mit GitHub entwickelt wird, ist die native Integration von GitHub Pages besonders vorteilhaft. Dies reduziert den Konfigurationsaufwand, vermeidet externe Abhängigkeiten und ermöglicht ein einfaches, sicheres und kostenloses Deployment direkt aus dem Repository heraus.
 
 ---
 

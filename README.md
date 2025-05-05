@@ -28,11 +28,3 @@ Die Anforderungen umfassen:
 **Projektname:** Taste Tales  
 **Projektbeschreibung:**  
 Eine Website mit einer Sammlung unserer Lieblingsrezepte, übersichtlich aufgeteilt in Vorspeisen, Hauptgerichte und Nachspeisen.
-
-**Technologien und Tools:**
-- HTML5 und CSS3
-- Markdown für Rezepte
-- Static Site Generator: Eleventy (11ty)
-- Git für Versionsverwaltung
-- GitHub für Hosting des Repositorys
-- Netlify für statisches Deployment
