@@ -1,4 +1,14 @@
 ---
+name: Rezeptvorschlag
+about: Reiche ein neues Rezept ein, das zur Website hinzugefügt werden soll
+title: "[Rezept] "
+labels: ["rezept"]
+assignees: ""
+---
+
+<!-- Bitte fülle alle Felder vollständig aus. -->
+
+---
 layout: recipe.njk
 title: "" # Titel des Rezepts, z. B. "Schoggikuchen"
 emoji: "" # Emoji passend zum Gericht, z. B. 🍫
@@ -11,36 +21,23 @@ description: "" # Kurzbeschreibung des Rezepts, z. B. "Ein schneller und safti
 
 <!--
 Hier einen Satz schreiben, warum das Rezept besonders ist.
-Beispiel: "Ein schneller und saftiger Kuchen für jede Gelegenheit."
 -->
 
 ---
 
 ### 🛒 Zutaten
 
-<!-- Jede Zutat in einer eigenen Zeile mit - davor, z. B.:
-- 200g Mehl
-- 100g Zucker
-- 2 Eier
--->
-
+<!-- Jede Zutat in einer eigenen Zeile mit - davor -->
 ---
 
 ### 👩‍🍳 Zubereitung
 
-<!-- Schritt-für-Schritt-Anleitung nummeriert, z. B.:
-1. Backofen auf 180 °C vorheizen
-2. Mehl und Zucker vermengen
-3. Eier unterrühren
--->
-
+<!-- Schritt-für-Schritt-Anleitung nummeriert -->
 ---
 
 ### 💡 Tipp
 
-<!-- Optional: Ein Tipp zum Gelingen oder zur Variation. Z. B.:
-"Mit Vanilleeis servieren schmeckt besonders lecker." -->
-
+<!-- Optional: Tipp oder Variante -->
 ---
 
 _👨‍🍳Rezeptvorschlag von: Dein Name👨‍🍳_
