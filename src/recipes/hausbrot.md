@@ -41,4 +41,4 @@ Ein Schälchen Wasser im Ofen sorgt für eine besonders knusprige Kruste.
 
 
 
-_🤖Rezept von Chat GPT🤖_
+_🤖Rezept by Chat GPT🤖_

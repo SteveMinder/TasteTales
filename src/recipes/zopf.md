@@ -44,4 +44,4 @@ Mit etwas Honig oder Konfitüre schmeckt Zopf besonders fein!
 
 
 
-_🤖Rezept von Chat GPT🤖_
+_🤖Rezept by Chat GPT🤖_
