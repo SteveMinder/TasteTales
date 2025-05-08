@@ -71,23 +71,23 @@ Die oben verlinkten Tools analysieren öffentlich zugängliche Dateien auf **tec
 
 Die Links enthalten bereits die URL zur live veröffentlichten Website auf GitHub Pages. Mit einem Klick wird automatisch eine Prüfung durchgeführt – ohne dass die Dateien manuell hochgeladen werden müssen.
 
-## 🌱 Nachhaltigkeitsprüfung mit Ecograder
+# 🌱 Nachhaltigkeitsprüfung mit Ecograder
 
-Zur Bewertung der ökologischen Qualität wurde das Online-Tool **Ecograder** verwendet. Es analysiert den Energieverbrauch, die Seitengrösse und Nachhaltigkeitsaspekte der Website.
+Zur Bewertung der ökologischen Qualität wurde das Online-Tool **Ecograder** verwendet. Es analysiert Aspekte wie den Energieverbrauch, die Seitengrösse und allgemeine Nachhaltigkeitsfaktoren der Website.
 
-- 🔗 [Ecograder Analyse – Taste Tales](https://ecograder.com/report/https%3A%2F%2Fsteveminder.github.io%2FTasteTales%2F)
+👉 Eine aktuelle Bewertung kann direkt auf [ecograder.com](https://ecograder.com) durchgeführt werden, indem die URL `https://steveminder.github.io/TasteTales/` eingegeben wird.
 
-### 🔍 Funktionsweise der Analyse
+### 🔍 Überblick zur Analyse
 
-Ecograder bewertet Webseiten auf Basis von Kriterien wie:
+Ecograder beurteilt Webseiten unter anderem anhand von:
 
-- Gesamtgrösse und Ladezeit der Seite
-- Einsatz von Performance-Optimierung (z. B. Lazy Loading, Cache)
-- Nutzung von grünem Hosting
-- Vermeidung unnötiger Skripte und Tracking-Technologien
+- Effizienz bei Ladezeit und Dateigrösse
+- Optimierung der technischen Umsetzung
+- Hosting-Nachhaltigkeit
+- Reduktion unnötiger Ressourcen
 
-Die Bewertung erfolgt **direkt über die öffentlich zugängliche URL** und liefert einen Score zwischen 0 und 100.  
-Unser Ziel war ein **Ecograder Index über 90 Punkten**, was wir erfolgreich erreicht haben.
+Die Bewertung erfolgt mit einem Score von 0 bis 100.  
+Unser Ziel war ein **Ecograder Index von über 90 Punkten**, was mit einer optimierten Umsetzung angestrebt wurde.
 
 ## ℹ️ Quellenverzeichnis
 
