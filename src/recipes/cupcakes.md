@@ -52,4 +52,4 @@ Kühldauer einhalten damit werden die Cupcakes schokoladiger. Cupcakes mit Butte
 
 
 
-_👩‍🍳Rezept by Nathalie👩‍🍳_
+_👩‍🍳Rezeptvorschlag von: Nathalie👩‍🍳_

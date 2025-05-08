@@ -43,4 +43,4 @@ Mit Puderzucker bestreuen und mit Eis oder Rahm geniessen
 
 
 
-_👨‍🍳Rezept by Bryan👨‍🍳_
+_👨‍🍳Rezeptvorschlag von: Bryan👨‍🍳_

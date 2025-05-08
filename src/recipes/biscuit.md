@@ -43,4 +43,4 @@ Backform Durchmesser ca. 26cm
 
 
 
-_👩‍🍳Rezept by Nathalie👩‍🍳_
+_👩‍🍳Rezeptvorschlag von: Nathalie👩‍🍳_
