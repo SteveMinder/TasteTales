@@ -1,6 +1,6 @@
 ---
 layout: recipe.njk
-title: Nathi's Cupcakes
+title: Cupcakes
 emoji: 🧁
 category: Desserts
 permalink: /recipes/cupcakes/
@@ -17,14 +17,14 @@ Nathis Cupcakes sind handgemachte kleine Kunstwerke, die mit viel Liebe und hoch
 ### 🛒 Zutaten
 
 <!-- Jede Zutat in einer neuen Zeile mit - davor -->
-- 300 gr Schokolade noir
-- 150 gr Butter
-- 150 gr Zucker
+- 300g Schokolade noir
+- 150g Butter
+- 150g Zucker
 - 4 Eier
-- 75 gr Mehl
+- 75g Mehl
 - Buttercreme
-- 150 gr weiche Butter
-- 250 gr Puderzucker
+- 150g weiche Butter
+- 250g Puderzucker
 
 ---
 
@@ -52,4 +52,4 @@ Kühldauer einhalten damit werden die Cupcakes schokoladiger. Cupcakes mit Butte
 
 
 
-_👩‍🍳Rezept von Nathalie👩‍🍳_
+_👩‍🍳Rezept by Nathalie👩‍🍳_

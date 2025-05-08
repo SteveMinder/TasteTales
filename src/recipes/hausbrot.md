@@ -40,4 +40,5 @@ Ein einfaches und leckeres Rezept für frisches Brot aus dem eigenen Ofen. Perfe
 Ein Schälchen Wasser im Ofen sorgt für eine besonders knusprige Kruste.
 
 
-_🧑‍🍳Rezept von Chat GPT🧑‍🍳_
+
+_🤖Rezept von Chat GPT🤖_

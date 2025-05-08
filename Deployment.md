@@ -1,7 +1,5 @@
 # Deployment-Vergleich: Hosting-Anbieter für statische Webseiten
 
-> Hinweis: Dieser Text wurde unter Zuhilfenahme von OpenAI ChatGPT (GPT-4, Mai 2025) erstellt. Die Aussagen basieren auf offiziellen Dokumentationen und technischen Quellen, die im Quellenverzeichnis aufgeführt sind.
-
 ## Ziel der Analyse
 Verglichen werden gängige Hosting-Anbieter für statische Webseiten hinsichtlich:
 - Kosten
@@ -42,6 +40,7 @@ Die Website *Taste Tales* ist ein rein statisches Projekt mit HTML-, CSS- und Ma
 ---
 
 ## Quellenverzeichnis
+
 - GitHub Pages: https://docs.github.com/en/pages (Zugriff: 05.05.2025)
 - Netlify Docs: https://docs.netlify.com (Zugriff: 05.05.2025)
 - Cloudflare Pages: https://developers.cloudflare.com/pages (Zugriff: 05.05.2025)
@@ -49,3 +48,6 @@ Die Website *Taste Tales* ist ein rein statisches Projekt mit HTML-, CSS- und Ma
 - Vercel Docs: https://vercel.com/docs (Zugriff: 05.05.2025)
 - AWS S3: https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html (Zugriff: 05.05.2025)
 - Google Cloud Hosting: https://cloud.google.com/storage/docs/hosting-static-website (Zugriff: 05.05.2025)
+
+> Hinweis: Dieser Text wurde unter Zuhilfenahme von OpenAI ChatGPT (GPT-4, Mai 2025) erstellt.  
+> Die Aussagen basieren auf offiziellen Dokumentationen und technischen Quellen, die im Quellenverzeichnis aufgeführt sind.
