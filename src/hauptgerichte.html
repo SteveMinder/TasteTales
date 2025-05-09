@@ -22,7 +22,18 @@
 </header>
 
 <main class="kategorien">
-    <h2>Hier erscheinen bald unsere köstlichen Hauptgerichte!</h2>
+    <h2>Unsere köstlichen Hauptgerichte:</h2>
+
+    {% for recipe in collections.recipes %}
+    {% if recipe.data.category == "Hauptgerichte" %}
+    <div class="kategorie-card">
+        <a href="{{ recipe.url | url }}">
+            <h3>{{ recipe.data.emoji }} {{ recipe.data.title }}</h3>
+            <p>{{ recipe.data.description }}</p>
+        </a>
+    </div>
+    {% endif %}
+    {% endfor %}
 </main>
 
 <footer>
