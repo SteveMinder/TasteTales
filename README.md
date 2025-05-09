@@ -89,6 +89,20 @@ Ecograder beurteilt Webseiten unter anderem anhand von:
 Die Bewertung erfolgt mit einem Score von 0 bis 100.  
 Unser Ziel war ein **Ecograder Index von über 90 Punkten**, was mit einer optimierten Umsetzung angestrebt wurde.
 
+---
+
+## ✍️ Rezepte via GitHub-Issues einreichen
+
+Über das GitHub-Issue-System können neue Rezeptvorschläge bequem und strukturiert eingereicht werden.  
+Dazu steht eine **vorbereitete Vorlage** zur Verfügung, die Nutzer:innen Schritt für Schritt durch die benötigten Angaben führt.
+
+👉 Einfach unter dem Reiter **Issues** auf „New issue“ klicken.
+
+Alle eingereichten Vorschläge können später durch das Projektteam geprüft und direkt in die Website integriert werden.  
+So wird die Plattform kollaborativ erweiterbar – ideal für Klassenprojekte, Freundeskreise oder Familienrezepte.
+
+---
+
 ## ℹ️ Quellenverzeichnis
 
 - W3C HTML Validator: https://validator.w3.org/ (Zugriff: 08.05.2025)
