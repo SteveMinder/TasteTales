@@ -57,6 +57,12 @@ section {
     padding: 2rem 1rem;
 }
 
+.kategorie-card a:focus {
+    outline: none;
+    background-color: #e6f0ff;
+    border-radius: 8px;
+}
+
 /* Hover-Effekt auf Karten */
 .kategorie-card:hover {
     transform: scale(1.05);
@@ -107,10 +113,4 @@ section {
 
 .rezept-inhalt p {
     margin-bottom: 1rem;
-}
-
-a:hover,
-a:focus {
-    outline: 3px solid #3d81c6;
-    outline-offset: 4px;
 }
