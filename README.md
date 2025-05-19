@@ -97,11 +97,12 @@ Die Barrierefreiheit der Website wurde mit dem integrierten Analyse-Tool **Googl
 Dabei wurde ein **Score von 100% in der Kategorie „Accessibility“** erreicht – ein Beleg für eine benutzerfreundliche und zugängliche Gestaltung.
 
 📸 Beispielauswertung: 
+-
 ![Lighthouse Accessibility 100%](./assets/img/lighthouse-accessibility.png)
 
-## ✍️ Rezepte via GitHub-Issues einreichen
-
 ---
+
+## ✍️ Rezepte via GitHub-Issues einreichen
 
 Über das GitHub-Issue-System können neue Rezeptvorschläge bequem und strukturiert eingereicht werden.  
 Dazu steht eine **vorbereitete Vorlage** zur Verfügung, die Nutzer:innen Schritt für Schritt durch die benötigten Angaben führt.
