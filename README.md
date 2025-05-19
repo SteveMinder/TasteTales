@@ -96,7 +96,7 @@ Unser Ziel war ein **Ecograder Index von über 90 Punkten**, was mit einer optim
 Die Barrierefreiheit der Website wurde mit dem integrierten Analyse-Tool **Google Chrome Lighthouse** überprüft.  
 Dabei wurde ein **Score von 100% in der Kategorie „Accessibility“** erreicht – ein Beleg für eine benutzerfreundliche und zugängliche Gestaltung.
 
-📸 Beispielauswertung: 
+📸 Auswertung: 
 -
 ![Lighthouse Accessibility 100%](./assets/img/lighthouse-accessibility.png)
 

@@ -39,6 +39,19 @@ Die Website *Taste Tales* ist ein rein statisches Projekt mit HTML-, CSS- und Ma
 
 ---
 
+## Ergänzung: Green Hosting via Cloudflare Pages
+
+Da **GitHub Pages kein „Green Hosting“** unterstützt, wurde zusätzlich eine zweite Deployment-Instanz über **Cloudflare Pages** aufgesetzt.  
+Cloudflare nutzt nachweislich zu 100% erneuerbare Energiequellen und verbessert damit die ökologische Nachhaltigkeit des Projekts.
+
+👉 Dadurch konnte im Tool **Ecograder** ein höherer Score erzielt werden, insbesondere in der Kategorie „Green Hosting“.
+
+📸 Auswertung:
+-
+![Ecograder Cloudflare Screenshot](./assets/ecograder-cloudflare.png)
+
+---
+
 ## Quellenverzeichnis
 
 - GitHub Pages: https://docs.github.com/en/pages (Zugriff: 05.05.2025)
