@@ -57,17 +57,6 @@ section {
     padding: 2rem 1rem;
 }
 
-.kategorie-card a:focus {
-    outline: none;
-}
-
-.kategorie-card a:focus h3 {
-    outline: 3px solid #0066cc;
-    outline-offset: 4px;
-    border-radius: 6px;
-}
-
-
 /* Hover-Effekt auf Karten */
 .kategorie-card:hover {
     transform: scale(1.05);
@@ -81,7 +70,7 @@ section {
 /* Beschreibungstext innerhalb der Karten */
 .kategorie-card p {
     font-size: 0.95rem;
-    color: #666;
+    color: #444;
 }
 
 .kategorien h2 {
