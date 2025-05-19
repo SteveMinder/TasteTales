@@ -9,7 +9,6 @@ description: Bryans Spezial-Schoggikuchen
 
 ### 🍫 Schoggikuchen
 
-<!-- Hier einen kurzen Satz schreiben, z. B. wann oder wieso das Rezept besonders ist -->
 Bryans Spezial-Schoggikuchen ist ein besonders saftiger Schokoladenkuchen – schnell gemacht und immer ein Genuss.
 
 ---

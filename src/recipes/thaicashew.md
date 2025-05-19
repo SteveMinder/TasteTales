@@ -19,7 +19,7 @@ Ein beliebtes thailändisches Gericht, das durch die Kombination von knusprigem 
 - 100 g Cashewkerne (geröstet)
 - 3 Frühlingszwiebeln
 - 4 Knoblauchzehen
-- 1 große Zwiebel
+- 1 grosse Zwiebel
 - 2 rote Paprika
 - 2–4 rote Thai-Chilis
 - 4 EL Maisstärke
@@ -38,13 +38,13 @@ Ein beliebtes thailändisches Gericht, das durch die Kombination von knusprigem 
 
 ### 👩‍🍳 Zubereitung
 
-1. Tofu in ca. 2 cm große Würfel schneiden. Falls der Tofu sehr feucht ist, vorher 15 Minuten pressen.
-2. Tofuwürfel in einer Schüssel mit 4 EL Maisstärke vermengen, bis sie gleichmäßig bedeckt sind.
+1. Tofu in ca. 2 cm grosse Würfel schneiden. Falls der Tofu sehr feucht ist, vorher 15 Minuten pressen.
+2. Tofuwürfel in einer Schüssel mit 4 EL Maisstärke vermengen, bis sie gleichmässig bedeckt sind.
 3. Für die Sauce alle Zutaten in einer kleinen Schüssel verrühren und beiseitestellen.
-4. Zwiebel schälen und in Streifen schneiden. Paprika entkernen und in ca. 2–3 cm große Stücke schneiden. Das Weiße der Frühlingszwiebeln in Streifen schneiden, das Grüne fein hacken und separat beiseitestellen. Knoblauch fein hacken.
+4. Zwiebel schälen und in Streifen schneiden. Paprika entkernen und in ca. 2–3 cm grosse Stücke schneiden. Das Weisse der Frühlingszwiebeln in Streifen schneiden, das Grüne fein hacken und separat beiseitestellen. Knoblauch fein hacken.
 5. Cashewkerne in einem Wok ohne Öl goldbraun rösten und beiseitestellen.
-6. Öl im Wok erhitzen und die Tofuwürfel darin rundum goldbraun braten. Anschließend aus dem Wok nehmen und beiseitestellen.
-7. Zwiebeln und das Weiße der Frühlingszwiebeln im Wok 2 Minuten anbraten.
+6. Öl im Wok erhitzen und die Tofuwürfel darin rundum goldbraun braten. Anschliessend aus dem Wok nehmen und beiseitestellen.
+7. Zwiebeln und das Weisse der Frühlingszwiebeln im Wok 2 Minuten anbraten.
 8. Thai-Chilis und gehackten Knoblauch hinzufügen und weitere 2 Minuten mitbraten.
 9. Paprikastücke dazugeben und unter gelegentlichem Rühren 3 Minuten braten.
 10. Den gebratenen Tofu zurück in den Wok geben, alles vorsichtig vermengen und 1 Minute mitbraten.

@@ -45,9 +45,9 @@ Ein einfacher, aber wirkungsvoller Kuchenklassiker: saftig, schokoladig, mit fei
 3. Butter schmelzen, etwas abkühlen lassen. Mit Eiern und Milch zum Mehl geben und zu einem glatten Teig verrühren.
 4. Teig in die vorbereitete Form geben und glatt streichen.
 5. In der Mitte des Ofens ca. 40 Minuten backen.
-6. Leicht abkühlen lassen und mit einem Holzspieß einstechen.
+6. Leicht abkühlen lassen und mit einem Holzspiess einstechen.
 7. Für die Glasur Butter schmelzen. Puderzucker, Vanillezucker, Kakaopulver und Espresso einrühren.
-8. Glasur über den noch warmen Kuchen gießen und mit Kokosraspeln bestreuen.
+8. Glasur über den noch warmen Kuchen giessen und mit Kokosraspeln bestreuen.
 9. Auskühlen lassen, aus der Form nehmen und in Würfel schneiden.
 
 ---

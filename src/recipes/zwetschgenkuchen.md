@@ -31,9 +31,9 @@ Ein fruchtiger, nussiger Kuchen mit feiner Vanillenote und cremigem Guss – ide
 2. Eine quadratische Form mit einem Teig auslegen, Ränder hochziehen.
 3. Boden mit Mandeln und Nüssen bestreuen.
 4. Zwetschgen halbieren, entsteinen und dicht an dicht auf dem Teig verteilen.
-5. Den zweiten Teig als Deckel auflegen, Ränder gut verschließen.
+5. Den zweiten Teig als Deckel auflegen, Ränder gut verschliessen.
 6. Kaffeerahm, Zucker, Vanillezucker und Eier gut verrühren.
-7. Die Mischung gleichmäßig über den Kuchen gießen.
+7. Die Mischung gleichmässig über den Kuchen giessen.
 8. In der Ofenmitte ca. 40–45 Minuten backen, bis die Oberfläche goldbraun ist.
 9. Abkühlen lassen und nach Belieben mit Puderzucker bestreuen.
 

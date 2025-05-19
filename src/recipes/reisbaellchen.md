@@ -37,8 +37,8 @@ Diese frittierte Reisspezialität mit einer herzhaften Hackfleischfüllung ist e
 
 ### 👩‍🍳 Zubereitung
 
-1. Pilze in heißem Wasser ca. 15 Min. einweichen. Zwiebel fein würfeln und im Öl glasig dünsten. Reis 2–3 Min. mitbraten. Mit 350 ml Brühe aufgießen, salzen und pfeffern. Zugedeckt ca. 20 Min. quellen lassen.
-2. Frühlingszwiebeln waschen und fein würfeln. Pilze entstielen und hacken. Mit Hackfleisch, Ei, Eigelb, 2 EL Sojasauce und Zitronensaft unter den Reis mischen. Salzen. Aus der Masse walnussgroße Kugeln formen und in Semmelbröseln wälzen.
+1. Pilze in heissem Wasser ca. 15 Min. einweichen. Zwiebel fein würfeln und im Öl glasig dünsten. Reis 2–3 Min. mitbraten. Mit 350 ml Brühe aufgiessen, salzen und pfeffern. Zugedeckt ca. 20 Min. quellen lassen.
+2. Frühlingszwiebeln waschen und fein würfeln. Pilze entstielen und hacken. Mit Hackfleisch, Ei, Eigelb, 2 EL Sojasauce und Zitronensaft unter den Reis mischen. Salzen. Aus der Masse walnussgrosse Kugeln formen und in Semmelbröseln wälzen.
 3. Passierte Tomaten mit 125 ml Brühe, 2 EL Sojasauce, Sambal Oelek und Speisestärke aufkochen und ca. 5 Min. köcheln lassen. Salzen und pfeffern.
 4. Öl in einem Wok erhitzen. Reisbällchen portionsweise 4–5 Min. goldbraun frittieren. Auf Küchenpapier abtropfen lassen. Mit der Tomatensauce servieren.
 

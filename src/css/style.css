@@ -108,3 +108,9 @@ section {
 .rezept-inhalt p {
     margin-bottom: 1rem;
 }
+
+a:hover,
+a:focus {
+    outline: 3px solid #3d81c6;
+    outline-offset: 4px;
+}

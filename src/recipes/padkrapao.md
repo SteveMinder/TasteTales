@@ -34,7 +34,7 @@ Ein beliebtes thailändisches Gericht mit aromatischem Basilikum, würzigen Chil
 ### 👩‍🍳 Zubereitung
 
 1. **Vorbereitung**: Schalotte, Knoblauch und Chilis grob hacken und in einer Küchenmaschine fein zerkleinern. Basilikumblätter abzupfen. Sojasaucen, Fischsauce, Austernsauce und Zucker in einer kleinen Schüssel vermischen.
-2. **Spiegeleier braten**: In einer Pfanne Öl bei mittlerer bis hoher Hitze erhitzen. Eier hineinschlagen und braten, bis der Rand knusprig ist und das Eiweiß gestockt ist. Herausnehmen und beiseite stellen.
+2. **Spiegeleier braten**: In einer Pfanne Öl bei mittlerer bis hoher Hitze erhitzen. Eier hineinschlagen und braten, bis der Rand knusprig ist und das Eiweiss gestockt ist. Herausnehmen und beiseite stellen.
 3. **Fleisch anbraten**: In derselben Pfanne erneut Öl erhitzen. Die Schalotten-Chili-Paste hinzufügen und ca. 2–3 Minuten braten, bis sie duftet. Schweinehackfleisch dazugeben und mit einem Kochlöffel in kleine Stücke zerteilen. Ca. 3 Minuten braten, bis es goldbraun ist.
 4. **Würzen**: Die vorbereitete Sauce hinzufügen und gut umrühren. Basilikumblätter einrühren und kurz mitbraten, bis sie verwelkt sind.
 5. **Servieren**: Mit gekochtem Jasminreis und dem Spiegelei servieren.

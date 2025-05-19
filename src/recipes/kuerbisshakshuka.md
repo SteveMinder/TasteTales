@@ -15,7 +15,7 @@ Ein wärmendes vegetarisches Gericht mit orientalischer Würze – ideal für He
 
 ### 🛒 Zutaten
 
-- 600 g Kürbis (z. B. Butternuss), in 2–3 cm große Würfel
+- 600 g Kürbis (z.B. Butternuss), in 2–3 cm grosse Würfel
 - 2 Zweige Salbei, fein geschnitten
 - 1½ TL Salz
 - 1 EL Olivenöl
