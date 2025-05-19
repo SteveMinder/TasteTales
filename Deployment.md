@@ -46,7 +46,7 @@ Cloudflare nutzt nachweislich zu 100% erneuerbare Energiequellen und verbessert 
 
 👉 Dadurch konnte im Tool **Ecograder** ein höherer Score erzielt werden, insbesondere in der Kategorie „Green Hosting“.
 
-📸 Auswertung:
+📸 Screenshot der Analyse:
 -
 ![Ecograder Cloudflare Screenshot](./assets/ecograder-cloudflare.png)
 

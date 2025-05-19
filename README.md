@@ -89,6 +89,15 @@ Ecograder beurteilt Webseiten unter anderem anhand von:
 Die Bewertung erfolgt mit einem Score von 0 bis 100.  
 Unser Ziel war ein **Ecograder Index von über 90 Punkten**, was mit einer optimierten Umsetzung angestrebt wurde.
 
+### ⚠️ Hinweis zu Green Hosting
+
+Da **GitHub Pages** aktuell **kein nachweislich grünes Hosting** anbietet, konnte trotz optimierter Umsetzung **kein Score über 90** erreicht werden.  
+Um dennoch eine nachhaltigere Variante bereitzustellen, wurde die Seite zusätzlich über **Cloudflare Pages** mit Green Hosting deployed:
+
+📸 Screenshot der Analyse:
+-
+![Ecograder Cloudflare Screenshot](./assets/ecograder-cloudflare.png)
+
 ---
 
 ## ♿ Barrierefreiheitstest
