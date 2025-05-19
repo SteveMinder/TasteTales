@@ -59,9 +59,14 @@ section {
 
 .kategorie-card a:focus {
     outline: none;
-    background-color: #e6f0ff;
-    border-radius: 8px;
 }
+
+.kategorie-card a:focus h3 {
+    outline: 3px solid #0066cc;
+    outline-offset: 4px;
+    border-radius: 6px;
+}
+
 
 /* Hover-Effekt auf Karten */
 .kategorie-card:hover {
