@@ -15,10 +15,13 @@ Im Rahmen dieser Gruppenarbeit war folgende Aufgabenstellung zu erfüllen:
 - Evaluiere einen Static Site Generator (SSG), der aus Markdown-Files Webseiten rendert. Implementiere das erstellte Theme.
 - Deploye die Website auf einem Hosting für statische Webseiten direkt und automatisch aus dem Git Repository.
 - Stelle sicher, dass HTML und CSS korrekt sind:
-    - [HTML Validator](https://validator.w3.org/)
-    - [CSS Validator](https://jigsaw.w3.org/css-validator/)
+  - [HTML Validator](https://validator.w3.org/)
+  - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - Stelle sicher, dass der Ecograder Index über 90 ist:
-    - [Ecograder](https://ecograder.com/)
+  - [Ecograder](https://ecograder.com/)
+
+> 🆕 **Neu hinzugekommen:**  
+> Das Layout sollte ansprechend sein und die Themen aus dem Unterricht anwenden – insbesondere **CSS-Selektoren**, **Einheiten**, **Farben**, **Schriftarten** sowie **Flexbox und Grid**.
 
 ---
 
@@ -27,22 +30,21 @@ Im Rahmen dieser Gruppenarbeit war folgende Aufgabenstellung zu erfüllen:
 Die Dokumentation besteht aus folgenden Dateien:
 
 - `README.md`
-    - Kurze Übersicht über das Projekt
-    - Ausgefüllte Links zu HTML- und CSS-Validierung
-    - Screenshot der Ecograder-Analyse
-    - Zusammenfassung der Variantenentscheide
+  - Kurze Übersicht über das Projekt
+  - Ausgefüllte Links zu HTML- und CSS-Validierung
+  - Screenshot der Ecograder-Analyse
+  - Zusammenfassung der Variantenentscheide
 
 - `StaticSiteGenerator.md`
-    - Erläuterung des gewählten SSG mit Begründung (Variantenentscheid)
+  - Erläuterung des gewählten SSG mit Begründung (Variantenentscheid)
 
 - `Deployment.md`
-    - Erläuterung des gewählten Hostings/Deployments mit Begründung (Variantenentscheid)
+  - Erläuterung des gewählten Hostings/Deployments mit Begründung (Variantenentscheid)
 
 ---
 
 ### ℹ️ Quellen & Hilfsmittel
 
-- Sämtliche Aussagen sind mit Quellen (z. B. Dokumentationen, Fachartikel, Bücher) zu belegen.
+- Sämtliche Aussagen sind mit Quellen (z.B. Dokumentationen, Fachartikel, Bücher) zu belegen.
 - **KI-generierte Inhalte** sind als solche zu kennzeichnen.
   > Beispiel: *Teile dieses Dokuments wurden mithilfe von OpenAI ChatGPT (GPT-4, Mai 2025) erstellt.*
-
