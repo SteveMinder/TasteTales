@@ -16,7 +16,6 @@ Nathis Cupcakes sind handgemachte kleine Kunstwerke, die mit viel Liebe und hoch
 
 ### 🛒 Zutaten
 
-<!-- Jede Zutat in einer neuen Zeile mit - davor -->
 - 300g Schokolade noir
 - 150g Butter
 - 150g Zucker
@@ -30,7 +29,6 @@ Nathis Cupcakes sind handgemachte kleine Kunstwerke, die mit viel Liebe und hoch
 
 ### 👩‍🍳 Zubereitung
 
-<!-- Schritt-für-Schritt-Anleitung -->
 1. Schokolade grob hacken
 2. Butter schmelzen und Schokolade einrühren
 3. Eier und Zucker mit Gabel rühren, Mehl beifügen und verrühren
