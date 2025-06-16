@@ -15,7 +15,7 @@ header, footer {
 
 /* Navigation-Links im Header */
 nav a {
-    display: flex;
+    display: inline-block;
     margin: 0.5em 1em;
     padding: 0.5em 0.75em;
     font-size: 1.1rem;
