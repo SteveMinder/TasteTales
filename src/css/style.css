@@ -141,3 +141,44 @@ nav a:focus {
     background-color: #ddd;
     color: #000;
 }
+
+/* Versteckte Checkbox */
+.menu-toggle {
+    display: none;
+}
+
+/* Hamburger-Symbol */
+.menu-icon {
+    display: none;
+    font-size: 2rem;
+    cursor: pointer;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
+
+/* Responsive Navigation */
+@media (max-width: 768px) {
+    .menu-icon {
+        display: block;
+    }
+
+    nav.main-nav ul {
+        display: none;
+        flex-direction: column;
+        background: #eee;
+        position: absolute;
+        top: 4rem;
+        right: 1rem;
+        padding: 1rem;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .menu-toggle:checked + .menu-icon + nav.main-nav ul {
+        display: flex;
+    }
+
+    nav.main-nav ul li {
+        margin: 0.5rem 0;
+    }
+}
