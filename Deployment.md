@@ -48,7 +48,7 @@ Cloudflare nutzt nachweislich zu 100% erneuerbare Energiequellen und verbessert 
 
 📸 Screenshot der Analyse:
 -
-![Ecograder Cloudflare Screenshot](./assets/ecograder-cloudflare.png)
+![Ecograder Cloudflare Screenshot](./assets/img/ecograder-cloudflare.png)
 
 ---
 

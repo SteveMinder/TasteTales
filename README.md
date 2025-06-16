@@ -96,7 +96,7 @@ Um dennoch eine nachhaltigere Variante bereitzustellen, wurde die Seite zusätzl
 
 📸 Screenshot der Analyse:
 -
-![Ecograder Cloudflare Screenshot](./assets/ecograder-cloudflare.png)
+![Ecograder Cloudflare Screenshot](./assets/img/ecograder-cloudflare.png)
 
 ---
 
