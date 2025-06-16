@@ -35,9 +35,11 @@ section {
 
 /* Layout für die Übersicht auf der Startseite und Kategorie-Seiten */
 .kategorien {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     gap: 2rem;
+    padding: 2rem;
 }
 
 /* Gestaltung einzelner Kategorie-Karten */
