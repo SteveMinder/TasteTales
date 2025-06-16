@@ -13,6 +13,11 @@ header, footer {
     text-align: center;
 }
 
+header h1 {
+    padding-right: 2rem; /* genug Platz für das ☰-Symbol */
+    position: relative;
+}
+
 /* Grundlayout für Hauptinhalt */
 main {
     padding: 1em;
