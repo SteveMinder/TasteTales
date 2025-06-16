@@ -1,13 +1,4 @@
-:root {
-    --breakpoint-sm: 600px;
-    --breakpoint-md: 768px;
-    --breakpoint-lg: 1024px;
-}
-
-/* ====================== */
-/* Mobile First Base CSS */
-/* ====================== */
-
+/* Allgemeines Grundlayout für den gesamten Body */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -15,47 +6,53 @@ body {
     color: #333;
 }
 
+/* Gestaltung von Header und Footer */
 header, footer {
     background: #eee;
     padding: 1em;
     text-align: center;
 }
 
+/* Navigation-Links im Header */
 nav a {
-    display: block;
-    margin: 0.5em 0;
-    padding: 0.5em;
-    font-size: 1rem;
+    display: inline-block;
+    margin: 0.5em 1em;
+    padding: 0.5em 0.75em;
+    font-size: 1.1rem;
     text-decoration: none;
     color: #555;
 }
 
+/* Grundlayout für Hauptinhalt */
 main {
     padding: 1em;
 }
 
+/* Abstand zwischen Abschnitten */
 section {
     margin-bottom: 2em;
 }
 
+/* Layout für die Übersicht auf der Startseite und Kategorie-Seiten */
 .kategorien {
     display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-    padding: 1rem;
-    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    padding: 2rem;
 }
 
+/* Gestaltung einzelner Kategorie-Karten */
 .kategorie-card {
     background-color: #f0f0f0;
     border-radius: 12px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     text-align: center;
-    width: 100%;
-    max-width: 320px;
+    width: 250px;
     transition: transform 0.2s;
 }
 
+/* Links innerhalb der Karten */
 .kategorie-card a {
     text-decoration: none;
     color: #333;
@@ -63,14 +60,17 @@ section {
     padding: 2rem 1rem;
 }
 
+/* Hover-Effekt auf Karten */
 .kategorie-card:hover {
     transform: scale(1.05);
 }
 
+/* Titel innerhalb der Karten */
 .kategorie-card h2 {
     margin-bottom: 0.5rem;
 }
 
+/* Beschreibungstext innerhalb der Karten */
 .kategorie-card p {
     font-size: 0.95rem;
     color: #444;
@@ -82,10 +82,12 @@ section {
     margin-bottom: 1rem;
 }
 
+/* Rezept Style */
+
 .rezept-inhalt {
     max-width: 800px;
     margin: 2rem auto;
-    padding: 1.5rem;
+    padding: 2rem;
     line-height: 1.6;
     background: #fff;
     border-radius: 12px;
@@ -108,27 +110,4 @@ section {
 
 .rezept-inhalt p {
     margin-bottom: 1rem;
-}
-
-/* ========================= */
-/* Tablet and Desktop Layouts */
-/* ========================= */
-
-@media (min-width: var(--breakpoint-sm)) {
-    nav a {
-        display: inline-block;
-        margin: 0 1em;
-    }
-}
-
-@media (min-width: var(--breakpoint-md)) {
-    .kategorien {
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
-
-    .kategorie-card {
-        width: 250px;
-    }
 }
