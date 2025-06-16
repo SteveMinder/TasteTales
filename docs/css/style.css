@@ -13,16 +13,6 @@ header, footer {
     text-align: center;
 }
 
-/* Navigation-Links im Header */
-nav a {
-    display: inline-block;
-    margin: 0.5em 1em;
-    padding: 0.5em 0.75em;
-    font-size: 1.1rem;
-    text-decoration: none;
-    color: #555;
-}
-
 /* Grundlayout für Hauptinhalt */
 main {
     padding: 1em;
