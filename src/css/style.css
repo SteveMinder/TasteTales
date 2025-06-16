@@ -14,8 +14,9 @@ header, footer {
 }
 
 header h1 {
-    padding-right: 2rem; /* genug Platz für das ☰-Symbol */
-    position: relative;
+    font-size: 1.5rem;
+    padding-right: 1.5rem; /* genug Platz für das ☰-Symbol */
+    margin: 0.5rem 0;
 }
 
 /* Grundlayout für Hauptinhalt */
