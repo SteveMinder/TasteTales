@@ -12,12 +12,14 @@
 <header>
     <h1>Willkommen bei Taste Tales 🍴</h1>
     <nav>
-        <a href="index.html">Startseite</a>
-        <a href="vorspeisen/">Vorspeisen</a>
-        <a href="hauptgerichte/">Hauptgerichte</a>
-        <a href="desserts/">Desserts</a>
-        <a href="gebaeck/">Gebäck</a>
-        <a href="impressum/">Impressum</a>
+        <ul>
+            <li><a href="{{ '/' | url }}">Startseite</a></li>
+            <li><a href="{{ '/vorspeisen/' | url }}">Vorspeisen</a></li>
+            <li><a href="{{ '/hauptgerichte/' | url }}">Hauptgerichte</a></li>
+            <li><a href="{{ '/desserts/' | url }}">Desserts</a></li>
+            <li><a href="{{ '/gebaeck/' | url }}">Gebäck</a></li>
+            <li><a href="{{ '/impressum/' | url }}">Impressum</a></li>
+        </ul>
     </nav>
 </header>
 
