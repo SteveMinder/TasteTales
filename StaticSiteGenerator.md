@@ -38,9 +38,12 @@ Wir haben uns für **Eleventy (11ty)** entschieden, weil:
 
 ## Projektbezug
 
-Das Projekt *Taste Tales* verwendet strukturierte Inhaltsdateien im Markdown-Format für Rezepte. Mit Eleventy können diese Inhalte automatisch in saubere HTML-Seiten umgewandelt werden. Durch eigene Layouts (z. B. `recipe.njk`) können Design und Struktur zentral gepflegt werden.
+Das Projekt *Taste Tales* verwendet strukturierte Inhaltsdateien im Markdown-Format für Rezepte. Mit Eleventy können diese Inhalte automatisch in saubere HTML-Seiten umgewandelt werden. Durch eigene Layouts (z.B. `recipe.njk`) können Design und Struktur zentral gepflegt werden.
+
+Alle generierten Dateien werden dabei durch **Eleventy** im Ordner `/docs` gespeichert, was eine einfache Bereitstellung über GitHub Pages ermöglicht.
 
 Eleventy bietet uns genau die richtige Balance zwischen **technischer Kontrolle**, **Einfachheit** und **Flexibilität**, um ein barrierefreies, responsives und wartbares Webprojekt umzusetzen.
+
 
 ---
 

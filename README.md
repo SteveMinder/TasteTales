@@ -2,6 +2,7 @@
 
 > Semesterprojekt im Lehrgang NDS HF Applikationsentwicklung, Teko Bern  
 > Gruppenarbeit von **Steve Minder** und **Florian Zingg**  
+> Klasse **B-NIA-24-A-a**  
 > Erstellt im Rahmen des Moduls **Web Engineering**
 
 ---
