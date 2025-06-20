@@ -7,6 +7,7 @@
 > 
 > Abgabe: **20. Juni 2025**  
 > Abgabeform: **per E-Mail an den Dozenten mit Link zum GitHub-Repository und zur veröffentlichten Website**
+> 
 > 👉 [Projektwebsite aufrufen](https://steveminder.github.io/TasteTales/)
 
 ---
