@@ -57,7 +57,7 @@ Wir haben uns für **Eleventy** entschieden, weil es:
 ## Projektumsetzung mit Eleventy
 
 Für unser Projekt *Taste Tales* verwenden wir Markdown-Dateien zur Repräsentation einzelner Rezepte.  
-Eleventy liest diese Dateien, wendet Templates an (z. B. `layout.njk`) und generiert HTML-Seiten, die barrierefrei und responsiv gestaltet sind.
+Eleventy liest diese Dateien, wendet Templates an (z.B. `layout.njk`) und generiert HTML-Seiten, die barrierefrei und responsiv gestaltet sind.
 
 Alle Ausgaben werden automatisiert in den Ordner `/docs` geschrieben, wodurch ein reibungsloses Deployment auf **GitHub Pages** möglich ist – ganz ohne zusätzliche Konfiguration.
 
