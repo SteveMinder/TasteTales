@@ -4,8 +4,10 @@
 > Gruppenarbeit von **Steve Minder** und **Florian Zingg**  
 > Klasse **B-NIA-24-A-a**  
 > Erstellt im Rahmen des Moduls **Web Engineering**
-> 
-> Abgabe: **20. Juni 2025**  
+>
+> Ursprüngliche Abgabe: **20. Juni 2025**  
+> Überarbeitung nach Feedback möglich  
+> **Neue Abgabe: 29. Juni 2025** 
 > Abgabeform: **per E-Mail an den Dozenten mit Link zum GitHub-Repository und zur veröffentlichten Website**
 > 
 > 👉 [Projektwebsite aufrufen](https://steveminder.github.io/TasteTales/)
