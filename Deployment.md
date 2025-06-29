@@ -100,5 +100,5 @@ Diese Entscheidung wurde jedoch im Nachhinein kritisch überprüft, mit anderen 
 - [Ecograder](https://ecograder.com)
 
 
-> Hinweis: Dieser Text wurde unter Zuhilfenahme von OpenAI ChatGPT (GPT-4, Mai 2025) erstellt.  
+> Hinweis: Dieser Text wurde unter Zuhilfenahme von OpenAI ChatGPT (GPT-4, Juni 2025) erstellt.  
 > Die Aussagen basieren auf offiziellen Dokumentationen und technischen Quellen, die im Quellenverzeichnis aufgeführt sind.

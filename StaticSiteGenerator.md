@@ -1,59 +1,84 @@
 # SSG-Vergleich: Auswahl eines Static Site Generators für das Projekt
+*Überarbeitete Version 29.06.2025*
+
+> **Hinweis:** Dieses Kapitel wurde nach Rückmeldung überarbeitet. Ziel war es, die Bewertungskriterien klarer zu definieren, nachvollziehbar zu begründen und die Funktionsweise des gewählten SSG präziser darzustellen.
+
+---
 
 ## Ziel der Analyse
-Verglichen werden gängige Static Site Generatoren hinsichtlich:
-- Einstiegshürde & Einrichtung
-- Flexibilität beim Aufbau von Websites
-- Integration von Markdown-Dateien
-- Kompatibilität mit Git-Workflows und statischem Hosting (z. B. GitHub Pages)
 
-Die Analyse dient der Auswahl eines geeigneten Generators für unser statisches Webprojekt *Taste Tales*.
+Für unser statisches Webprojekt **Taste Tales** wurde ein geeigneter **Static Site Generator (SSG)** gesucht.  
+Im Fokus standen dabei:
 
----
+- **Einrichtungsaufwand**
+- **Markdown-Verarbeitung**
+- **Gestaltungsfreiheit (Build-Kontrolle)**
+- **Kompatibilität mit Git und statischem Hosting (z.B. GitHub Pages)**
 
-## Generatoren im Vergleich
-
-| Generator         | Sprache     | Einstieg       | Markdown-Support | Build-Kontrolle | Geeignet für GitHub Pages |
-|------------------|-------------|----------------|------------------|-----------------|----------------------------|
-| **Eleventy**     | JavaScript  | Sehr einfach   | ✅ Vollständig    | Hoch            | ✅ Ja                      |
-| **Jekyll**        | Ruby        | Mittel         | ✅ Sehr gut       | Gering          | ✅ Ja (nativ bei GitHub)   |
-| **Hugo**          | Go          | Mittel         | ✅ Gut            | Hoch            | ✅ Ja                      |
-| **Astro**         | JS/TS       | Anspruchsvoll  | ✅ Sehr gut       | Sehr hoch       | ✅ Ja                      |
-| **Next.js (SSG)** | JS/React    | Hoch           | ⚠️ Umständlich    | Sehr hoch       | ⚠️ Teilweise               |
+Ziel war ein **objektiver, nachvollziehbarer Vergleich** praxisnaher Generatoren, um eine fundierte Auswahl für unser Projekt zu treffen.
 
 ---
 
-## Empfehlung
+## Vergleichstabelle mit Bewertung (1–5 Punkte)
 
-Wir haben uns für **Eleventy (11ty)** entschieden, weil:
-
-- es keine Build-Tools oder komplexe Frameworks erfordert,
-- es **Markdown-Dateien direkt verarbeitet**,
-- es sehr einfach mit **HTML-Templates, Nunjucks oder Liquid** kombiniert werden kann,
-- es auf **Node.js basiert**, das in unserem Projektumfeld ohnehin genutzt wird,
-- es **leicht konfigurierbar ist** (z. B. Verzeichnisstruktur, Permalinks),
-- und es sich hervorragend mit **GitHub Pages** für statisches Hosting kombinieren lässt.
+| Generator         | Sprache   | Einrichtung | Markdown-Support | Build-Kontrolle | GitHub Pages | Gesamt |
+|------------------|-----------|-------------|------------------|------------------|---------------|--------|
+| **Eleventy**     | JS        | 5 – sofort lauffähig, kein Build-System nötig | 5 – direkte Verarbeitung von `.md` | 4 – Templates, Permalinks, Filter möglich | ✅ nativ nutzbar | **19** |
+| **Jekyll**       | Ruby      | 3 – Ruby-Setup nötig, CLI-Tools erforderlich | 5 – sehr guter `.md`-Support inkl. Frontmatter | 2 – stark vorgegebene Struktur | ✅ native Integration bei GitHub | **15** |
+| **Hugo**         | Go        | 4 – einfache Binaries, schneller Build | 4 – gute `.md`-Verarbeitung, aber spezielles Frontmatter | 4 – hohe Kontrolle über Layouts & Strukturen | ✅ gut integrierbar | **17** |
+| **Astro**        | JS/TS     | 2 – Setup mit Node + Config, komplexer Einstieg | 5 – exzellenter Markdown- und MDX-Support | 5 – hohe Kontrolle über Rendering & Komponenten | ✅ ja, mit Build-Output | **19** |
+| **Next.js (SSG)**| JS/React  | 2 – React-Kenntnisse vorausgesetzt, komplexe Struktur | 3 – Markdown nur über Plugins (z. B. `remark`) | 5 – volle Kontrolle via API/FS | ⚠️ nicht optimal für GitHub Pages | **17** |
 
 ---
 
-## Projektbezug
+### Bewertungskriterien
 
-Das Projekt *Taste Tales* verwendet strukturierte Inhaltsdateien im Markdown-Format für Rezepte. Mit Eleventy können diese Inhalte automatisch in saubere HTML-Seiten umgewandelt werden. Durch eigene Layouts (z.B. `recipe.njk`) können Design und Struktur zentral gepflegt werden.
+- **Einrichtung:** Aufwand für Start und erste Ausgabe (1 = komplex, 5 = sofort einsatzbereit)
+- **Markdown-Support:** Verarbeitung von `.md`-Dateien ohne zusätzliche Plugins
+- **Build-Kontrolle:** Einfluss auf Seitenstruktur, Layout, Output-Konventionen
+- **GitHub Pages:** Direkte Nutzbarkeit ohne zusätzlichen Build-Server
 
-Alle generierten Dateien werden dabei durch **Eleventy** im Ordner `/docs` gespeichert, was eine einfache Bereitstellung über GitHub Pages ermöglicht.
+---
 
-Eleventy bietet uns genau die richtige Balance zwischen **technischer Kontrolle**, **Einfachheit** und **Flexibilität**, um ein barrierefreies, responsives und wartbares Webprojekt umzusetzen.
+## Entscheidung: **Eleventy (11ty)**
 
+Wir haben uns für **Eleventy** entschieden, weil es:
+
+- ohne Frameworks oder Build-Systeme auskommt,
+- Markdown-Dateien direkt verarbeitet (ohne Plugins),
+- flexible Templates via Nunjucks, Liquid oder HTML unterstützt,
+- gut mit GitHub Pages kompatibel ist (Output in `/docs`),
+- und sehr schnell produktiv einsetzbar ist (keine Abhängigkeiten ausser Node.js).
+
+**Rückblickend bietet Eleventy die beste Kombination aus Einfachheit, Flexibilität und GitHub-Kompatibilität** für ein kleines, inhaltlich strukturiertes Webprojekt.
+
+---
+
+## Projektumsetzung mit Eleventy
+
+Für unser Projekt *Taste Tales* verwenden wir Markdown-Dateien zur Repräsentation einzelner Rezepte.  
+Eleventy liest diese Dateien, wendet Templates an (z. B. `layout.njk`) und generiert HTML-Seiten, die barrierefrei und responsiv gestaltet sind.
+
+Alle Ausgaben werden automatisiert in den Ordner `/docs` geschrieben, wodurch ein reibungsloses Deployment auf **GitHub Pages** möglich ist – ganz ohne zusätzliche Konfiguration.
+
+---
+
+## Reflexion
+
+Das initiale Setup mit Eleventy verlief reibungslos. Wir konnten alle Anforderungen ohne Workarounds umsetzen.  
+Die einfache Verzeichnisstruktur und Markdown-Verarbeitung machten den Generator besonders gut geeignet für unser Rezeptformat.
+
+Der klare Aufbau, die Kontrolle über URL-Strukturen und die einfache Integration mit GitHub Pages waren entscheidende Faktoren.
 
 ---
 
 ## Quellenverzeichnis
 
-- Eleventy Docs: https://www.11ty.dev/docs/ (Zugriff: 05.05.2025)
-- Jekyll: https://jekyllrb.com/docs/ (Zugriff: 05.05.2025)
-- Hugo: https://gohugo.io/documentation/ (Zugriff: 05.05.2025)
-- Astro: https://docs.astro.build (Zugriff: 05.05.2025)
-- Next.js: https://nextjs.org/docs (Zugriff: 05.05.2025)
+- [Eleventy Docs](https://www.11ty.dev/docs/)
+- [Jekyll](https://jekyllrb.com/docs/)
+- [Hugo](https://gohugo.io/documentation/)
+- [Astro](https://docs.astro.build)
+- [Next.js](https://nextjs.org/docs)
 
-> Hinweis: Dieser Text wurde unter Zuhilfenahme von OpenAI ChatGPT (GPT-4, Mai 2025) erstellt.  
+> Hinweis: Dieser Text wurde unter Zuhilfenahme von OpenAI ChatGPT (GPT-4, Juni 2025) erstellt.  
 > Die Aussagen basieren auf offiziellen Dokumentationen und technischen Quellen, die im Quellenverzeichnis aufgeführt sind.
